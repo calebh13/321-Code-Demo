@@ -109,7 +109,7 @@ namespace _321_Code_Demo
                                     .Select(a => double.Parse(a.Attribute("grade")!.Value))
                                     .ToList();
 
-                double gpa = _workflow.ExecuteGpaWorkflow(name, grades);
+                double gpa = _workflow.ExecuteGpaWorkflow(new Student(name, grades));
                 Console.WriteLine($"{name}'s GPA: {gpa:F2}");
             }
         }

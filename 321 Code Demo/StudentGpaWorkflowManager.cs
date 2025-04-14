@@ -5,8 +5,6 @@ namespace _321_Code_Demo
 {
     public class StudentGpaWorkflowManager
     {
-        private readonly GpaReportBuilder _reportBuilder = new();
-
         public double ExecuteGpaWorkflow(Student student)
         {
             ValidateStudent(student);
