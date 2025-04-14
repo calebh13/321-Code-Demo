@@ -1,0 +1,16 @@
+﻿<Students>
+	<Student name="Jimothy">
+		<Assignment grade="90"/>
+		<Assignment grade="85"/>
+		<Assignment grade="88"/>
+	</Student>
+	<Student name="Wilford">
+		<Assignment grade="70"/>
+		<Assignment grade="75"/>
+		<Assignment grade="72"/>
+	</Student>
+	<Student name="Bob Dole">
+		<Assignment grade="95"/>
+		<Assignment grade="100"/>
+	</Student>
+</Students>
