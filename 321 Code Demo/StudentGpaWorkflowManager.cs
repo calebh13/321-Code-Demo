@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace _321_Code_Demo
+﻿namespace _321_Code_Demo
 {
     public class StudentGpaWorkflowManager
     {

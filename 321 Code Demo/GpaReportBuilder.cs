@@ -1,7 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Linq;
-
-namespace _321_Code_Demo
+﻿namespace _321_Code_Demo
 {
     public class GpaReportBuilder
     {
